@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi humans:
+  today is my first projecthas been made.
